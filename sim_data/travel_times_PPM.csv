@@ -1,0 +1,6 @@
+,origin,lot_1,lot_2,lot_3,destination
+origin,0,10,10,10,42
+lot_1,10,0,3,6,2
+lot_2,10,1,0,6,6
+lot_3,10,5,5,0,8
+destination,42,2,6,8,0

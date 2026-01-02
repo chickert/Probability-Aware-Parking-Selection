@@ -1,0 +1,11 @@
+.DS_Store
+# Ignore output and data contents
+figs/*
+seattle_data/*
+sim_data/parking_probs/*
+sim_results/*
+# But keep the directories for clarity and user ease
+!figs/.gitkeep
+!seattle_data/.gitkeep
+!sim_data/parking_probs/.gitkeep
+!sim_results/.gitkeep

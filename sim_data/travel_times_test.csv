@@ -1,0 +1,6 @@
+,origin,lot_1,lot_2,lot_3,destination
+origin,0,6,9,13,999
+lot_1,5,0,3,8,3
+lot_2,8,4,0,5,4
+lot_3,12,7,6,0,5
+destination,999,5,10,15,0

@@ -1,0 +1,13 @@
+name: prob_aware_parking
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - typing_extensions=4.12.2
+  - pip           
+  - pip:
+    - matplotlib==3.9.2
+    - numpy==2.0.2
+    - pandas==2.2.3
+prefix: /opt/anaconda3/envs/prob_aware_parking
