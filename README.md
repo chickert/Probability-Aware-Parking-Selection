@@ -60,4 +60,5 @@ To run the Markov Decision Process (MDP) simulations, the basic flow is `data_fo
 Data from Seattle Dept. of Transportation for the stochastic observation and MDP simulations can be found at: 
 * Occupancy data: https://data.seattle.gov/Transportation/Paid-Parking-Occupancy-Last-30-Days-/rke9-rsvs/about_data
 * Transaction data: https://data.seattle.gov/Transportation/Paid-Parking-Transaction-Data/gg89-k5p6/about_data
-Note that data used in the paper itself were accessed from these sources on Feb. 3rd, 2025. For full reproducibility, refer to the date ranges in the paper. 
+
+Note that data used in the paper itself were accessed from these sources on Feb. 3rd, 2025. For full reproducibility, refer to the dates in the paper. 
