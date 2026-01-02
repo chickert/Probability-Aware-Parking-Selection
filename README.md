@@ -1,5 +1,5 @@
 # Probability-Aware-Parking-Selection
-Code repo for the paper "Probability-Aware Parking Selection" in IEEE Transactions on Intelligent Transportation Systems by Cameron Hickert, Sirui Li, Zhengbing He, and Cathy Wu.
+Code repo for the paper "Probability-Aware Parking Selection" in IEEE Transactions on Intelligent Transportation Systems by Cameron Hickert, Sirui Li, Zhengbing He, and Cathy Wu. Citation to come.
 
 ### Project Files
 ```tree
